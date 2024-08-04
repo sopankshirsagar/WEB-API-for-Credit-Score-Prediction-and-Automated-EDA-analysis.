@@ -1,4 +1,4 @@
-# WEB-API-for-prediction-credit-score-and-Auto-EDA-analysis.
+# WEB-API-for-Credit-Score-Prediction-and-Auto-EDA-analysis.
 in this project i have created web api which has two features.
 
 1) Credit Score Prediction - firstly i created Machime learning model for credit score prediction and after doing hyperparameter tunning got XGBoost best model. then save that model in pickle file and used in API (Django rest framework). in the conclusion this overoll API can predict credit score based on patrameted which is in Json file you can check.
