@@ -1,0 +1,59 @@
+[{
+    "Age":     38.000000,
+"Gender"     :                      0.000000,
+"Income"     :                  56000.000000,
+"Credit History Length"    :      414.000000,
+"Number of Existing Loans" :        0.000000,
+"Loan Amount"          :       138215.000000,
+"Loan Tenure"         :            42.000000,
+"LTV Ratio"           :            62.607963,
+"Employment Profile"  :             1.000000,
+"Profile Score"      :             60.000000,
+"credit history"     :              1.000000
+
+},
+
+{
+    "Age":     20.000000,
+"Gender"     :                      0.000000,
+"Income"     :                  36000.000000,
+"Credit History Length"    :      214.000000,
+"Number of Existing Loans" :        0.000000,
+"Loan Amount"          :       638215.000000,
+"Loan Tenure"         :            42.000000,
+"LTV Ratio"           :            62.607963,
+"Employment Profile"  :             2.000000,
+"Profile Score"      :             60.000000,
+"credit history"     :              1.000000
+
+},
+{
+    "Age":     50.000000,
+"Gender"     :                      0.000000,
+"Income"     :                  556000.000000,
+"Credit History Length"    :      514.000000,
+"Number of Existing Loans" :        2.000000,
+"Loan Amount"          :       88215.000000,
+"Loan Tenure"         :            42.000000,
+"LTV Ratio"           :            22.607963,
+"Employment Profile"  :             0.000000,
+"Profile Score"      :             70.000000,
+"credit history"     :              1.000000
+
+},
+{
+    "Age":     20.000000,
+"Gender"     :                      1.000000,
+"Income"     :                  6000.000000,
+"Credit History Length"    :      14.000000,
+"Number of Existing Loans" :        20.000000,
+"Loan Amount"          :       8215.000000,
+"Loan Tenure"         :            42.000000,
+"LTV Ratio"           :            22.607963,
+"Employment Profile"  :             1.000000,
+"Profile Score"      :             60.000000,
+"credit history"     :              2.000000
+
+}
+
+]
