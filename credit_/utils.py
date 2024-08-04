@@ -1,0 +1,1 @@
+# get file path of ML model and input data file and predict the output 
